@@ -88,5 +88,5 @@
 
 ## 📊 Github stats
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=95tuanle&count_private=true&show_icons=true&theme=transparent&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=95tuanle&layout=compact&count_private=true&show_icons=true&theme=transparent&langs_count=10&size_weight=0.5&count_weight=0.5)
+![Anurag's github stats](https://github-readme-stats-chi-three-21.vercel.app/api?username=95tuanle&show_icons=true&theme=transparent&include_all_commits=true)
+![Top Langs](https://github-readme-stats-chi-three-21.vercel.app/api/top-langs/?username=95tuanle&layout=compact&count_private=true&show_icons=true&theme=transparent&langs_count=10&size_weight=0.5&count_weight=0.5)
