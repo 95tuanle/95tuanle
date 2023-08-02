@@ -89,5 +89,6 @@
 
 ## 📊 Github stats
 
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=95tuanle&theme=transparent)
 ![Anurag's github stats](https://github-readme-stats-95tuanle.vercel.app/api?username=95tuanle&show_icons=true&theme=transparent&include_all_commits=true)
 ![Top Langs](https://github-readme-stats-95tuanle.vercel.app/api/top-langs/?username=95tuanle&layout=compact&show_icons=true&theme=transparent&langs_count=10&size_weight=0.5&count_weight=0.5)
