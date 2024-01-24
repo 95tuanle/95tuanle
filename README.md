@@ -1,7 +1,7 @@
 # Nguyen Anh Tuan Le
 
 📍 Toronto, Ontario, Canada | 📞 [647-510-2746](tel:647-510-2746) | 📧 [tlna95@icloud.com](mailto:tlna95@icloud.com) |
-💼 [LinkedIn](https://www.linkedin.com/in/95tuanle/)
+💼 [linkedin.com/in/95tuanle](https://www.linkedin.com/in/95tuanle/)
 
 ## 💼 Experience
 
