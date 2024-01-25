@@ -1,6 +1,6 @@
 # Nguyen Anh Tuan Le
 
-[Phone](tel:+16475102746) | [LeetCode](https://leetcode.com/95tuanle/) | [LinkedIn](https://www.linkedin.com/in/95tuanle/) | [Stack Overflow](https://stackoverflow.com/users/9129836/95tuanle)
+[+1 (647) 510-2746](tel:+16475102746) | [LeetCode](https://leetcode.com/95tuanle/) | [LinkedIn](https://www.linkedin.com/in/95tuanle/) | [Stack Overflow](https://stackoverflow.com/users/9129836/95tuanle)
  | [Wellfound](https://wellfound.com/95tuanle) | [Reddit](https://www.reddit.com/user/95tuanle) | [SoundCloud](https://soundcloud.com/95tuanle)
 
 ## 💼 Experience
