@@ -1,43 +1,44 @@
 # Nguyen Anh Tuan Le
 
 [+1 (647) 510-2746](tel:+16475102746) | [LeetCode](https://leetcode.com/95tuanle/) | [LinkedIn](https://www.linkedin.com/in/95tuanle/) | [Stack Overflow](https://stackoverflow.com/users/9129836/95tuanle)
- | [Wellfound](https://wellfound.com/95tuanle) | [Reddit](https://www.reddit.com/user/95tuanle) | [SoundCloud](https://soundcloud.com/95tuanle)
+| [Wellfound](https://wellfound.com/95tuanle) | [Reddit](https://www.reddit.com/user/95tuanle) | [SoundCloud](https://soundcloud.com/95tuanle)
 
 ## 💼 Experience
 
-### KnowQuest
+### [KnowQuest](https://www.linkedin.com/company/knowquest-inc./)
 
 **Software Developer** | 📍 Toronto, Ontario, Canada | 📅 Jun 2023 — Present
 
-- Optimized a feedback platform's backend using JavaScript, Node.js, Express, and MongoDB.
-- Overhauled the codebase, database structure, and code styling.
-- Enhanced frontend-backend-database integration.
-- Planning AWS Cognito implementation for security.
+- Developed and optimized the backend of a feedback platform using JavaScript, Node.js, Express, and MongoDB.
+- Conducted a comprehensive overhaul, improving the codebase, database structure, and enhancing code styling.
+- Enhanced integration between the frontend, backend, and database.
+- Actively planning AWS Cognito implementation for enhanced security.
 
-### My Little Tribe
+### [My Little Tribe](https://www.linkedin.com/company/my-little-tribe-community/)
 
 **Backend Software Developer** | 📍 Toronto, Ontario, Canada | 📅 Jan 2023 — Apr 2023
 
-- Built API and database for a nanny and daycare booking system using JavaScript, Node.js, Express, MySQL, webhook,
-  Stripe, and Firebase.
-- Integrated the backend with a React frontend.
-- Managed the backend on Google Cloud Platform.
+- Designed and implemented the API and database for a nanny and daycare booking system using JavaScript, Node.js,
+  Express, MySQL, webhook, Stripe for payment processing, and Firebase for authentication.
+- Successfully integrated the backend with a React frontend, ensuring a seamless user experience.
+- Deployed and managed the backend on Google Cloud Platform, ensuring scalability and high performance.
 
-### Viet Link Advertising
+### [Viet Link Advertising](https://www.linkedin.com/company/viet-link-advertising-co-ltd/)
 
 **Software Developer** | 📍 Ho Chi Minh City, Vietnam | 📅 Feb 2019 — May 2019
 
-- Resolved error tickets, developed new features, and supported team members.
-- Worked on websites and web applications using PHP (Laravel, Yii), Ruby (Ruby on Rails), and more.
-- Maintained website functionality for optimal performance.
+- Resolved daily error tickets, developed new software features, and provided valuable support to team members.
+- Developed, modified, integrated, and rigorously tested code for websites and web applications using PHP (Laravel,
+  Yii), Ruby (Ruby on Rails), and other technologies.
+- Monitored and maintained website functionality, ensuring optimal performance.
 
 ## 🎓 Education
 
-### Humber College
+### [Humber College](https://www.linkedin.com/school/humber-college/)
 
 **Postgraduate Certificate of Information Technology Solutions** | 📍 Toronto, Ontario, Canada | 📅 Sep 2021 — May 2023
 
-### RMIT University
+### [RMIT University](https://www.linkedin.com/school/rmit-university-vietnam/)
 
 **Bachelor of Information Technology** | 📍 Ho Chi Minh City, Vietnam | 📅 Sep 2015 — May 2019
 
