@@ -58,8 +58,8 @@
 - Location: Ho Chi Minh City, Vietnam
 - Duration: Sep 2015 — May 2019
 
-## Github stats
+## GitHub stats
 
-![Top Langs](https://github-readme-stats-95tuanle.vercel.app/api/top-langs/?username=95tuanle&layout=compact&show_icons=true&theme=transparent&langs_count=10&size_weight=0.5&count_weight=0.5)
-![Anurag's github stats](https://github-readme-stats-95tuanle.vercel.app/api?username=95tuanle&show_icons=true&theme=transparent&include_all_commits=true)
-![GitHub streak](https://github-readme-streak-stats-95tuanle.vercel.app/?user=95tuanle&theme=transparent)
+![Top Languages](https://github-readme-stats-95tuanle.vercel.app/api/top-langs/?username=95tuanle&layout=compact&show_icons=true&theme=transparent&langs_count=10&size_weight=0.5&count_weight=0.5)
+![GitHub Stats](https://github-readme-stats-95tuanle.vercel.app/api?username=95tuanle&show_icons=true&theme=transparent&include_all_commits=true)
+![GitHub Streak](https://github-readme-streak-stats-95tuanle.vercel.app/?user=95tuanle&theme=transparent)
