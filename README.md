@@ -1,7 +1,7 @@
 # Nguyen Anh Tuan Le
 
-📍 Toronto, Ontario, Canada | 📞 [647-510-2746](tel:647-510-2746) | 📧 [tlna95@icloud.com](mailto:tlna95@icloud.com) |
-💼 [linkedin.com/in/95tuanle](https://www.linkedin.com/in/95tuanle/)
+[Phone](tel:+16475102746) | [LeetCode](https://leetcode.com/95tuanle/) | [LinkedIn](https://www.linkedin.com/in/95tuanle/) | [Stack Overflow](https://stackoverflow.com/users/9129836/95tuanle)
+ | [Wellfound](https://wellfound.com/95tuanle) | [Reddit](https://www.reddit.com/user/95tuanle) | [SoundCloud](https://soundcloud.com/95tuanle)
 
 ## 💼 Experience
 
@@ -40,18 +40,6 @@
 ### RMIT University
 
 **Bachelor of Information Technology** | 📍 Ho Chi Minh City, Vietnam | 📅 Sep 2015 — May 2019
-
-## 💻 Skills
-
-- Languages: Java (Android, Swing, Jakarta EE - Spring), Python (Jupyter), C, C++, Swift (iOS), PHP (Laravel -
-  Homestead, Yii, CodeIgniter), Ruby (Ruby on Rails)
-- Web Technologies: HTML, CSS (Bootstrap), JavaScript (Node.js, Bun - Express, TypeScript - Angular, React, Next, Nest),
-  jQuery, XML, GraphQL
-- Databases: SQL (MySQL, PostgreSQL, Oracle - PL/SQL), NoSQL (MongoDB)
-- Version Control Systems: Git (GitHub, GitLab, Bitbucket)
-- Operating Systems: Unix (macOS), Unix-like (Linux), Bash (crontab)
-- Cloud Computing Platforms: Google Cloud Platform, Amazon Web Services, Microsoft Azure
-- Other Tools: Oracle APEX, webhook
 
 ## 📊 Github stats
 
