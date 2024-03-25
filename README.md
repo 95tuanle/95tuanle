@@ -38,8 +38,7 @@
 - Duration: Feb 2019 — May 2019
 - Responsibilities:
     - Resolved daily error tickets, developed new software features, and provided valuable support to team members.
-    - Developed, modified, integrated, and rigorously tested code for websites and web applications using PHP (Laravel,
-      Yii), Ruby (Ruby on Rails), and other technologies.
+    - Developed, modified, integrated, and rigorously tested code for websites and web applications using PHP (Laravel, Yii), Ruby (Ruby on Rails), and other technologies.
     - Monitored and maintained website functionality, ensuring optimal performance.
 
 ## Education
