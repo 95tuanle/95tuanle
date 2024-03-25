@@ -25,8 +25,7 @@
 - Location: Toronto, Ontario, Canada
 - Duration: Jan 2023 — Apr 2023
 - Responsibilities:
-    - Designed and implemented the API and database for a nanny and daycare booking system using JavaScript, Node.js,
-      Express, MySQL, webhook, Stripe for payment processing, and Firebase for authentication.
+    - Designed and implemented the API and database for a nanny and daycare booking system using JavaScript, Node.js, Express, MySQL, webhook, Stripe for payment processing, and Firebase for authentication.
     - Successfully integrated the backend with a React frontend, ensuring a seamless user experience.
     - Deployed and managed the backend on Google Cloud Platform, ensuring scalability and high performance.
 
