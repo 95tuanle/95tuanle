@@ -13,7 +13,7 @@
 - Location: Toronto, Ontario, Canada
 - Duration: Jun 2023 — Present
 - Responsibilities:
-    - Developed and optimized the backend of a feedback platform using JavaScript, Node.js, Express, and MongoDB.
+    - Developed and optimized a feedback platform system using React, JavaScript, Node.js, Express, and MongoDB.
     - Conducted a comprehensive overhaul, improving the codebase, database structure, and enhancing code styling.
     - Enhanced integration between the frontend, backend, and database.
     - Actively planning AWS Cognito implementation for enhanced security.
