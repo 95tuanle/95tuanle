@@ -11,7 +11,7 @@
 - Company: [KnowQuest](https://www.linkedin.com/company/knowquest-inc./)
 - Position: Software Developer
 - Location: Toronto, Ontario, Canada
-- Duration: Jun 2023 — Present
+- Duration: Jun 2023 — May 2024
 - Responsibilities:
     - Developed and optimized a feedback platform system using React, JavaScript, Node.js, Express, and MongoDB.
     - Conducted a comprehensive overhaul, improving the codebase, database structure, and enhancing code styling.
