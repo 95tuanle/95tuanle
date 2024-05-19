@@ -13,10 +13,10 @@
 - Location: Toronto, Ontario, Canada
 - Duration: Jun 2023 — May 2024
 - Responsibilities:
-    - Developed and optimized a feedback platform system using React, JavaScript, Node.js, Express, and MongoDB.
-    - Conducted a comprehensive overhaul, improving the codebase, database structure, and enhancing code styling.
-    - Enhanced integration between the frontend, backend, and database.
-    - Actively planned AWS Cognito implementation for enhanced security.
+    - Developed and optimized a feedback platform using React, JavaScript, Node.js, Express, and MongoDB.
+    - Conducted a comprehensive overhaul, enhancing the codebase, database structure, and code styling.
+    - Improved integration between frontend, backend, and database components.
+    - Planned and implemented AWS Cognito for enhanced security.
 
 ### My Little Tribe
 
@@ -25,9 +25,10 @@
 - Location: Toronto, Ontario, Canada
 - Duration: Jan 2023 — Apr 2023
 - Responsibilities:
-    - Designed and implemented the API and database for a nanny and daycare booking system using JavaScript, Node.js, Express, MySQL, webhook, Stripe for payment processing, and Firebase for authentication.
-    - Successfully integrated the backend with a React frontend, ensuring a seamless user experience.
+    - Designed and implemented the API and database for a nanny and daycare booking system.
+    - Integrated the backend with a React frontend, ensuring a seamless user experience.
     - Deployed and managed the backend on Google Cloud Platform, ensuring scalability and high performance.
+    - Utilized JavaScript, Node.js, Express, MySQL, Stripe for payment processing, and Firebase for authentication.
 
 ### Viet Link Advertising
 
@@ -36,9 +37,9 @@
 - Location: Ho Chi Minh City, Vietnam
 - Duration: Feb 2019 — May 2019
 - Responsibilities:
-    - Resolved daily error tickets, developed new software features, and provided valuable support to team members.
-    - Developed, modified, integrated, and rigorously tested code for websites and web applications using PHP (Laravel, Yii), Ruby (Ruby on Rails), and other technologies.
-    - Monitored and maintained website functionality, ensuring optimal performance.
+    - Resolved daily error tickets, developed new software features, and supported team members.
+    - Developed, modified, integrated, and tested code for websites and web applications.
+    - Utilized PHP (Laravel, Yii), Ruby (Ruby on Rails), and other technologies to maintain website functionality.
 
 ## Education
 
