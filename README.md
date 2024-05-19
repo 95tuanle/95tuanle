@@ -14,7 +14,7 @@
 - Duration: Jun 2023 — May 2024
 - Responsibilities:
     - Developed and optimized a feedback platform using React, JavaScript, Node.js, Express, and MongoDB.
-    - Conducted a comprehensive overhaul, enhancing the codebase, database structure, and code styling.
+    - Conducted a comprehensive overhaul, enhancing the codebase, database schema, and code styling.
     - Improved integration between frontend, backend, and database components.
     - Planned and implemented AWS Cognito for enhanced security.
 
