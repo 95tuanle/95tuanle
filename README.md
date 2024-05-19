@@ -16,7 +16,7 @@
     - Developed and optimized a feedback platform system using React, JavaScript, Node.js, Express, and MongoDB.
     - Conducted a comprehensive overhaul, improving the codebase, database structure, and enhancing code styling.
     - Enhanced integration between the frontend, backend, and database.
-    - Actively planning AWS Cognito implementation for enhanced security.
+    - Actively planned AWS Cognito implementation for enhanced security.
 
 ### My Little Tribe
 
