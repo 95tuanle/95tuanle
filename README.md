@@ -28,9 +28,9 @@
     - Deployed and managed the backend on Google Cloud Platform, ensuring scalability and high performance.
     - Utilized JavaScript, Node.js, Express, MySQL, Stripe for payment processing, and Firebase for authentication.
 
-### Viet Link Advertising
+### Vietlink
 
-- Company: [Viet Link Advertising](https://www.linkedin.com/company/viet-link-advertising-co-ltd/)
+- Company: [Vietlink](https://www.linkedin.com/company/vietlinkcompany/)
 - Position: Software Developer
 - Location: Ho Chi Minh City, Vietnam
 - Duration: Feb 2019 — May 2019
