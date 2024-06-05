@@ -1,6 +1,6 @@
 ## Contact Information
 
-[+1 (647) 510-2746](tel:+16475102746) | [Stack Overflow](https://stackoverflow.com/users/9129836/95tuanle) | [Wellfound](https://wellfound.com/95tuanle) | [SoundCloud](https://soundcloud.com/95tuanle)
+[‭+84 90 1840095‬](tel:‭+84901840095‬) | [Stack Overflow](https://stackoverflow.com/users/9129836/95tuanle) | [Wellfound](https://wellfound.com/95tuanle) | [SoundCloud](https://soundcloud.com/95tuanle)
 
 ## Experience
 
