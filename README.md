@@ -1,6 +1,6 @@
 ## Contact Information
 
-[+84 90 1840095](tel:+84901840095) | [Stack Overflow](https://stackoverflow.com/users/9129836/95tuanle) | [Wellfound](https://wellfound.com/95tuanle) | [SoundCloud](https://soundcloud.com/95tuanle)
+[+84 90 1840095](tel:+84901840095)
 
 ## Experience
 
@@ -52,7 +52,7 @@
 
 ### Humber College
 
-- Institution: [Humber College](https://www.linkedin.com/school/humber-college/)
+- Institution: [Humber Polytechnic](https://www.linkedin.com/school/humber-polytechnic/)
 - Degree: Postgraduate Certificate of Information Technology Solutions
 - Location: Toronto, Ontario, Canada
 - Duration: Sep 2021 — May 2023
