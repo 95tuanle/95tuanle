@@ -15,7 +15,7 @@
 
 ### KnowQuest
 
-- Company: [KnowQuest](https://www.linkedin.com/company/knowquest-inc./)
+- Company: [KnowQuest](https://www.linkedin.com/company/knowquest/)
 - Position: Software Developer
 - Location: Toronto, Ontario, Canada
 - Duration: Jun 2023 — May 2024
