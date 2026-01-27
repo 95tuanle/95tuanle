@@ -50,7 +50,7 @@
 
 ## Education
 
-### Humber College
+### Humber Polytechnic
 
 - Institution: [Humber Polytechnic](https://www.linkedin.com/school/humber-polytechnic/)
 - Degree: Postgraduate Certificate of Information Technology Solutions
